@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'accf847fa684130ca18deea79ae025fd',
 
-  PROVINCE: '云南',
-  CITY: '大理',
+  PROVINCE: '重庆',
+  CITY: '重庆',
 
   USERS: [
     {
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'oBFWf5zuVJ2zPU5wnVeVXA2fs6YU',
 
   CALLBACK_USERS: [
     {
